@@ -1,6 +1,6 @@
 # Network-Sweep-Scan
 Hello there, 
-This simple script was created by me and have not copied from anywhere so it feels great to contribute even a small bit of anything to Pen Testers community as a grateful return gesture for what we have acquired lots of free stuff...
+This simple script was created on my own and have not copied from anywhere so it feels great to contribute even a small bit of anything to Cyber Security Community as a gratefulness return gesture for what we have acquired lots of free stuff from the community...
 
 Will be contributing more in future...Insha Allah
 
