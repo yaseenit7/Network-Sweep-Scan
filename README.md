@@ -1,18 +1,14 @@
 # Network-Sweep-Scan
 Hello there, 
 
-This simple bash script was created on my own and have not copied from anywhere so it feels great to contribute even a small bit of anything to Ethical Hackers and Security Researchers Community as a gratefulness return gesture for what we have acquired lots of free other stuff from the community...
+It feels great to contribute a tool or script to Ethical Hackers and Security Researchers Community as a gesture of gratitude for being used lot more free stuff from the community. No gesture is too small when done with gratitude. I am delighted to contribute my own developed Network Sweep Scan script which scans for the live hosts on a network. It provides a list of ip address of live hosts and faster results as it does not do any port scanning
 
-Will be contributing more in future...Insha Allah
 
-This simple script will give you a list of live hosts on a network.
+Download the script from GitHub repository https://github.com/yaseenit7/Network-Sweep-Scan
 
-Download the script and change the permission to executable mode.
+Usage: ./networksweep.sh <Your-Network/24>
 
-Usage:   ./networksweep.sh <Your-Network/24>
-
-You will get it's output on terminal as well as in a .txt file called 'livehosts.txt'
-
+It gives you the output on the terminal as well as in 'livehosts.txt' file.
 
 
 
