@@ -1,14 +1,14 @@
 # Network-Sweep-Scan
-Hello there, 
+Hi there,
 
-It feels great to contribute a tool or script to Ethical Hackers and Security Researchers Community as a gesture of gratitude for being used lot more free stuff from the community. No gesture is too small when done with gratitude. I am delighted to contribute my own developed Network Sweep Scan script which scans for the live hosts on a network. It provides a list of ip address of live hosts and faster results as it does not do any port scanning
+I am very delighted to contribute my own developed Network-Sweep-Scan script tool to Ethical Hackers, Security Researchers and Infosec communities out there as a gesture of gratitude for being used lot more free stuff from communities. No gesture is too small when done with gratitude. The script scans the network and provides faster results with a list of ip addresses of live hosts as it does not perform any port scanning. In short, it's only a host discovery script.
 
 
-Download the script from GitHub repository https://github.com/yaseenit7/Network-Sweep-Scan
+You can download it from GitHub repository https://github.com/yaseenit7/Network-Sweep-Scan
 
 Usage: ./networksweep.sh <Your-Network/24>
 
-It gives you the output on the terminal as well as in 'livehosts.txt' file.
+It gives the result on the terminal as well as in 'livehosts.txt' file.
 
 
 
