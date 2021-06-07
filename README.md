@@ -1,4 +1,4 @@
-# Nmap-Network-Sweep-Scan
+# Network-Sweep-Scan
 Hello there, 
 This simple script was created by me and have not copied from anywhere so it feels great to contribute even a small bit of anything to Pen Testers community as a grateful return gesture for what we have acquired lots of free stuff...
 
