@@ -1,6 +1,7 @@
 # Network-Sweep-Scan
 Hello there, 
-This simple script was created on my own and have not copied from anywhere so it feels great to contribute even a small bit of anything to Cyber Security Community as a gratefulness return gesture for what we have acquired lots of free stuff from the community...
+
+This simple bash script was created on my own and have not copied from anywhere so it feels great to contribute even a small bit of anything to Ethical Hackers and Security Researchers Community as a gratefulness return gesture for what we have acquired lots of free other stuff from the community...
 
 Will be contributing more in future...Insha Allah
 
